@@ -23,8 +23,8 @@ Asset Tree View Application
     Instalação
         1 - Clone o repositório:
         CMD/bash ==============================================================
-            > git clone https://github.com/seu-usuario/seu-repositorio.git
-            > cd seu-repositorio
+            > git clone https://github.com/JoaoNFernandes/assets_manager
+            > cd [assets_manager path]
 
         2 - Instale as dependências:
         CMD/bash ==============================================================
@@ -39,7 +39,8 @@ Asset Tree View Application
     Uso
         A aplicação consistem em uma visualização de ativos de empresas e está dividida em duas Páginas.
 
-        HomePage: Mostrando as infor
+        HomePage: Mostra as Companhias cadastradas
+        AssetsPage:
 
     Demonstração em Vídeo
         [Link para o vídeo de demonstração]
@@ -52,3 +53,5 @@ Asset Tree View Application
 
         2 - Otimização de Filtros
             Atualmente, as funções de filtro foram implementadas com foco na funcionalidade básica. Muitas partes do código seguem padrões repetidos em diferentes funções. Planejo refatorar essas funções, criando métodos reutilizáveis que possam ser aplicados em várias partes do código, diminuindo a quantidade de código repetido e aumentando a eficiência do aplicativo.
+
+        Além disso, tabém serão adicionadas páginas para exibir informações detalhadas das companhias, localizações, ativos e componentes.
