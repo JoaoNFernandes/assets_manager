@@ -36,12 +36,6 @@ Asset Tree View Application
         CMD/bash ==============================================================
             > flutter run
     
-    Uso
-        A aplicação consistem em uma visualização de ativos de empresas e está dividida em duas Páginas.
-
-        HomePage: Mostra as Companhias cadastradas
-        AssetsPage:
-
     Demonstração em Vídeo
         [Link para o vídeo de demonstração]
 
