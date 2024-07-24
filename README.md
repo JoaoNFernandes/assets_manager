@@ -1,4 +1,4 @@
-Mobile Software Engineer - Asset Tree View Application
+Asset Tree View Application
 
     Descrição do Projeto
         Este projeto é uma aplicação de visualização em árvore que mostra os ativos das empresas. A árvore é composta por componentes, ativos e localizações, oferecendo uma representação visual da hierarquia dos ativos de uma empresa.
